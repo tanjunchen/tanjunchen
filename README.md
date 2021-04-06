@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 Live in Beijing China
+- 👯 [Kubernetes](https://github.com/kubernetes/kubernetes) Contributor/Reviewer
+- 📫 How to reach me: tanjunchen20@gmail.com
+
 ![tanjunchen's github stats](https://github-readme-stats.vercel.app/api?username=tanjunchen&count_private=true&show_icons=true&theme=radical)
