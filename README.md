@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 🔭 Live in Beijing China
 - 👯 [Kubernetes](https://github.com/kubernetes/kubernetes) Contributor/Reviewer
 - 👯 [Website](https://github.com/kubernetes/website) Approver
+- 👯 [Istio](https://github.com/istio/istio) Contributor
 - 📫 How to reach me: tanjunchen20@gmail.com
 
 ![tanjunchen's github stats](https://github-readme-stats.vercel.app/api?username=tanjunchen&count_private=true&show_icons=true&theme=radical)
