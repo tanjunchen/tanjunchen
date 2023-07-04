@@ -14,6 +14,7 @@
 
 - 🔭 Live in Beijing China
 - ✨ Kubernetes Contributor/Reviewer
+- ✨ Kubernetes Website Approver
 - ✨ Istio/Aeraki-Mesh Contributor
 - 😄 Open source technology enthusiasts, prefer to participate in it
 - 📫 How to reach me: tanjunchen20@gmail.com，2799194073@qq.com
