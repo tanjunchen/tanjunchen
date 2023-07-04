@@ -14,9 +14,9 @@
 
 - 🔭 Live in Beijing China
 - ✨ [Kubernetes](https://github.com/kubernetes/kubernetes) Contributor/Reviewer
-- ✨ [Kubernetes/website](https://github.com/kubernetes/website) Approver
+- ✨ [Kubernetes-Website](https://github.com/kubernetes/website) Approver
 - ✨ [Istio](https://github.com/istio/istio) Contributor
-- ✨ [aeraki-mesh](https://github.com/aeraki-mesh) Contributor
+- ✨ [Aeraki](https://github.com/aeraki-mesh) Contributor
 - 😄 Open source technology enthusiasts, prefer to participate in it
 - 📫 How to reach me: tanjunchen20@gmail.com，2799194073@qq.com
 
