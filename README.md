@@ -13,11 +13,8 @@
 ### Hi there 👋
 
 - 🔭 Live in Beijing China
-- ✨ [Kubernetes](https://github.com/kubernetes/kubernetes) Contributor/Reviewer
-- ✨ [Istio](https://github.com/istio/istio) Contributor
-- ✨ [Aeraki](https://github.com/aeraki-mesh) Contributor
-- ✨ [Kubernetes-Website](https://github.com/kubernetes/website) Approver
-- ✨ [Kubernetes-DashBoard](https://github.com/kubernetes/dashboard) Approver
+- ✨ [Kubernetes](https://github.com/kubernetes/kubernetes) Contributor/Reviewer, [Kubernetes-Website](https://github.com/kubernetes/website) Approver
+- ✨ [Istio](https://github.com/istio/istio), [Aeraki](https://github.com/aeraki-mesh) Contributor
 - 😄 Open source technology enthusiasts, prefer to participate in it
 - 📫 How to reach me: tanjunchen20@gmail.com，2799194073@qq.com
 
